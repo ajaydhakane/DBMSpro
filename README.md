@@ -1,2 +1,2 @@
 # DBMSpro
-my first DBMS project
+its first DBMS project
